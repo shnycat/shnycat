@@ -2,4 +2,4 @@
 - 👀 I’m interested in web/software development,
 - 🌱 I’m currently learning Next.js,
 - 💞️ I’m looking to collaborate on something...
-- 📫 @nafipk
+- 📫 @shnycat
