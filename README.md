@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Afif, 20 y.o
+- 👋 Hi, I’m Afif
 - 👀 I’m interested in web/software development,
-- 🌱 I’m currently learning Next.js,
+- 🌱 I’m currently learning about myself,
 - 💞️ I’m looking to collaborate on something...
-- 📫 email: shnycat@gmail.com
+- 📫 shnycat@gmail.com
